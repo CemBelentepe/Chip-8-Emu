@@ -1,0 +1,19 @@
+# ninja log v5
+0	671	1619429127426979578	CMakeFiles/Chip8.dir/src/Application.cpp.o	74b26b93e4bf4bfe
+6	1850	1619429128606984121	CMakeFiles/Chip8.dir/src/Levels/Level1.cpp.o	42a79c2a38a0ddb2
+3	2430	1619429129186986352	CMakeFiles/Chip8.dir/src/Engine/Game.cpp.o	882ca11c65b0bda
+0	2456	1619429129206986429	CMakeFiles/Chip8.dir/src/Emulator/Chip8.cpp.o	de6b42811ad8f861
+2456	6360	1619429133117001452	Chip8	7bd9534eb2bdf39b
+0	794	1619429285668198120	CMakeFiles/Chip8.dir/src/Levels/Level1.cpp.o	42a79c2a38a0ddb2
+794	889	1619429285758198762	Chip8	7bd9534eb2bdf39b
+1	664	1619429465519260750	CMakeFiles/Chip8.dir/src/Application.cpp.o	74b26b93e4bf4bfe
+1	721	1619429465579261058	CMakeFiles/Chip8.dir/src/Emulator/Chip8.cpp.o	de6b42811ad8f861
+1	859	1619429465719261777	CMakeFiles/Chip8.dir/src/Levels/Level1.cpp.o	42a79c2a38a0ddb2
+1	910	1619429465769262035	CMakeFiles/Chip8.dir/src/Engine/Game.cpp.o	882ca11c65b0bda
+910	1012	1619429465869262552	Chip8	7bd9534eb2bdf39b
+0	786	1619429498239426771	CMakeFiles/Chip8.dir/src/Levels/Level1.cpp.o	42a79c2a38a0ddb2
+786	883	1619429498329427222	Chip8	7bd9534eb2bdf39b
+1	778	1619429525789563322	CMakeFiles/Chip8.dir/src/Levels/Level1.cpp.o	42a79c2a38a0ddb2
+778	874	1619429525889563813	Chip8	7bd9534eb2bdf39b
+1	696	1619429585489851694	CMakeFiles/Chip8.dir/src/Engine/Game.cpp.o	882ca11c65b0bda
+696	795	1619429585589852170	Chip8	7bd9534eb2bdf39b

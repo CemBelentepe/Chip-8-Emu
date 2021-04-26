@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Chip8.dir/src/Application.cpp.o -c /home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Application.cpp",
+  "file": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Application.cpp"
+},
+{
+  "directory": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Chip8.dir/src/Emulator/Chip8.cpp.o -c /home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Emulator/Chip8.cpp",
+  "file": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Emulator/Chip8.cpp"
+},
+{
+  "directory": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Chip8.dir/src/Engine/Game.cpp.o -c /home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Engine/Game.cpp",
+  "file": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Engine/Game.cpp"
+},
+{
+  "directory": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Chip8.dir/src/Levels/Level1.cpp.o -c /home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Levels/Level1.cpp",
+  "file": "/home/cembelentepe/Documents/Repos/Chip-8-Emu/src/Levels/Level1.cpp"
+}
+]
